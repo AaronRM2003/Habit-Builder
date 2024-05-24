@@ -13,7 +13,6 @@ Habit Builder is a personal development app designed to help users build better 
 ## Screenshots
 <div style={{display:flex,flexDirection:row}}>
 <img src = 'flutter_01.png' width= 300 />
-<div style={{marginLeft:10}}>
-<img src = 'flutter_02.png' width= 300 marginLeft=100px/>
-</div>
+<img src = 'flutter_02.png' width= 300 style={{marginLeft:10}}/>
+
 </div>
