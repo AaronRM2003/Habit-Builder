@@ -17,5 +17,6 @@ Habit Builder is a personal development app designed to help users build better 
 
 </div>
 ## Download on Google Play Store
-
+<div width = 100>
 [![Google Play Store](https://img.shields.io/badge/Download%20on-Google%20Play-36c637?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aaronrm.habitbuilder)
+</div>
