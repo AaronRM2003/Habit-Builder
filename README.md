@@ -11,5 +11,8 @@ Habit Builder is a personal development app designed to help users build better 
 - **Motivational Quotes**: Stay motivated with daily inspirational quotes to keep you focused on your goals.
 
 ## Screenshots
+<div style={{display:flex,flexDirection:row}}>
+<img src = 'flutter_01.png' width= 300/>
+<img src = 'flutter_02.png' width= 300/>
 
-<img src = 'flutter_01.png' width= 300/> 
+</div>
