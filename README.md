@@ -12,3 +12,6 @@ Habit Builder is a personal development app designed to help users build better 
 
 ## Screenshots
 
+![Screenshot 1](flutter_01.png)
+![Screenshot 2](flutter_02.png)
+
